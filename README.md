@@ -1,2 +1,2 @@
 # AWS-Bedrock-main
-.
+This project is an interactive, AI-powered PDF chatbot built using Streamlit, AWS Bedrock LLMs (Titan, LLaMA3), FAISS, and LangChain. It performs retrieval-augmented generation (RAG) by extracting and embedding PDF documents, enabling users to ask complex questions and receive detailed, context-aware answers. Includes a modern UI, real-time LLM switching, and vector store management.
