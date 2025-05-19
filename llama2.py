@@ -22,7 +22,7 @@ payload = {
 body = json.dumps(payload)
 
 # Model ID
-model_id = "meta.llama3-8b-instruct-v1:0"
+model_id = "your model id"
 
 # Invoke model
 try:

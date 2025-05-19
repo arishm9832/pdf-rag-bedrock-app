@@ -13,7 +13,7 @@ payload = {
 }
 
 body = json.dumps(payload)
-model_id = "anthropic.claude-v2"  # or claude-instant-v1, or claude-3...
+model_id = "your model id"  # or claude-instant-v1, or claude-3...
 
 response = bedrock.invoke_model(
     body=body,
